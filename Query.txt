@@ -1,3 +1,4 @@
 SQL query to find the database available in a server
 
 Sp_helpdb
+new line
